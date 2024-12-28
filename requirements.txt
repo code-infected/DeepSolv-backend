@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+motor
+python-jose
+passlib[bcrypt]
+requests
+Flask
+pymongo
+Flask
+Flask-PyMongo
+Flask-Bcrypt
+Flask-JWT-Extended
+Flask-CORS
+oauthlib
+requests
+python-dotenv
